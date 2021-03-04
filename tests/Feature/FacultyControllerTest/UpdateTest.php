@@ -1,10 +1,10 @@
 <?php
 
-namespace Tests\Feature\AuthControllerTest;
+namespace Tests\Feature\FacultyControllerTest;
 
 use Tests\TestCase;
 
-class SignInTest extends TestCase
+class UpdateTest extends TestCase
 {
     public function setUp(): void
     {

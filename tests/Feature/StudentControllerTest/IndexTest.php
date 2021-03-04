@@ -1,10 +1,10 @@
 <?php
 
-namespace Tests\Feature\AuthControllerTest;
+namespace Tests\Feature\StudentControllerTest;
 
 use Tests\TestCase;
 
-class SignInTest extends TestCase
+class IndexTest extends TestCase
 {
     public function setUp(): void
     {

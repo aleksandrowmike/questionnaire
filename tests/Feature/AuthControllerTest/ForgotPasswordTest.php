@@ -4,7 +4,7 @@ namespace Tests\Feature\AuthControllerTest;
 
 use Tests\TestCase;
 
-class SignInTest extends TestCase
+class ForgotPasswordTest extends TestCase
 {
     public function setUp(): void
     {
