@@ -29,14 +29,6 @@ Route::group(['prefix' => 'v1', 'namespace' => 'Api/v1'], function () {
 
 // Deprecated
 
-// Route::group(['prefix' => 'auth'], function () {
-//     Route::post('sign-up', 'AuthController@signUp')
-//         ->name('auth.sign-up');
-
-//     Route::get('user', 'AuthController@user')
-//         ->name('auth.user')
-//         ->middleware('auth:api');
-// });
 
 // Route::resource('departments', 'DepartmentController')
 //     ->only(['index', 'show'])
